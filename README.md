@@ -10,6 +10,12 @@ login / logout / admin stuff thats always required.
 
 **Jakub** [@kubanishku](https://twitter.com/kubanishku/)  
 **PengKong** [@pengkong](https://github.com/pengkong)
+**BadDot** [@baddot](https://github.com/baddot)
+
+## Integrated CK Editor into Framework
+* CK editor
+* KC Finder (File Manager)
+* Updating more soon...
 		
 ## Key Features & Design Goals
 
