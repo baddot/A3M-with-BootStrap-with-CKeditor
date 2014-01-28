@@ -1,5 +1,7 @@
 <ul class="nav nav-list">
   <li class="nav-header">Account Info</li>
+  <li class="<?php echo ($current == 'account_profile_design') ? 'active' : ''; ?>"><?php echo anchor('account/account_profile_design', 'Design your profile'); ?></li>
+
   <li class="<?php echo ($current == 'account_profile') ? 'active' : ''; ?>"><?php echo anchor('account/account_profile', lang('website_profile')); ?></li>
   
   <li class="<?php echo ($current == 'account_settings') ? 'active' : ''; ?>"><?php echo anchor('account/account_settings', lang('website_account')); ?></li>

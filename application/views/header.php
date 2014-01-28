@@ -26,6 +26,7 @@
                         <ul class="dropdown-menu">
 							<?php if ($this->authentication->is_signed_in()) : ?>
                                 <li class="nav-header">Account Info</li>
+                                <li><?php echo anchor('account/account_profile_design', 'Design your profile'); ?></li>
 								<li><?php echo anchor('account/account_profile', lang('website_profile')); ?></li>
 								<li><?php echo anchor('account/account_settings', lang('website_account')); ?></li>
 								<?php if ($account->password) : ?>
