@@ -57,3 +57,6 @@ for help on getting started.
 * Open an issue if you want to discuss/highlight it
 * Go to StackOverflow under the tag `codeigniter-a3m` http://stackoverflow.com/questions/tagged/codeigniter-a3m if you have implementation issues (installation problems, etc;)
 
+=======
+A3M-with-BootStrap-with-CKeditor
+================================
